@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1699471412 source:f:\iti_work\sync_files\6-c\labs\day_4\menu_lap\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"F:\ITI_Work\Sync_Files\6-C\Labs\Day_4\MyLibrary.h"
+
+1699283530 f:\iti_work\sync_files\6-c\labs\day_4\mylibrary.h
+	<windows.h>
+

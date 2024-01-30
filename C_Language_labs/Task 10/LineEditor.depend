@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1700854278 source:f:\iti_work\sync_files\6-c\labs\day_7\lineeditor\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"MyLibrary.h"
+
+1699283530 f:\iti_work\sync_files\6-c\labs\day_4\mylibrary.h
+	<windows.h>
+
+1700771396 f:\iti_work\sync_files\6-c\labs\day_7\lineeditor\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1699283530 f:\iti_work\sync_files\6-c\labs\day_7\lineeditor\mylibrary.h
+	<windows.h>
+
+1701002702 source:f:\iti_work\sync_files\6-c\labs\day_7\new folder\lineeditor\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	"MyLibrary.h"
+	<unistd.h>
+
+1699283530 f:\iti_work\sync_files\6-c\labs\day_7\new folder\lineeditor\mylibrary.h
+	<windows.h>
+
+1701295117 source:f:\iti_work\sync_files\6-c\labs\day_7\multilineeditor\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	"MyLibrary.h"
+	<unistd.h>
+
+1699283530 f:\iti_work\sync_files\6-c\labs\day_7\multilineeditor\mylibrary.h
+	<windows.h>
+

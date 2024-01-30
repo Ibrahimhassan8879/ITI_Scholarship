@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700656452 source:f:\iti_work\sync_files\8-oop\day_1\lab1\lab\main.cpp
+	<iostream>
+	<conio.h>
+

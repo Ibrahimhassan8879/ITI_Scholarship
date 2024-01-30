@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701819137 source:f:\iti_work\sync_files\6-c\labs\day_7\dynamicmemoryallocation\main.c
+	<stdio.h>
+	<stdlib.h>
+
