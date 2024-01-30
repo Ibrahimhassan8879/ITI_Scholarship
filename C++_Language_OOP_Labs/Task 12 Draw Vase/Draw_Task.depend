@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1701698652 source:f:\iti_work\sync_files\8-oop\day_5\lab5\draw_task\main.cpp
+	"graphics.h"
+	<iostream>
+
+1699263962 c:\program files (x86)\codeblocks\mingw\include\graphics.h
+	<iostream>
+	<math.h>
+	<windows.h>
+	<Windows.h>
+
+1667301570 f:\iti_work\sync_files\8-oop\day_5\lab5\draw_task\graphics.h
+	<iostream>
+	<math.h>
+	<windows.h>
+	<Windows.h>
+
